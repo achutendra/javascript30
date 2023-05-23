@@ -1,2 +1,2 @@
 # javascript30
-learning and build 30 apps using vanilla javascript
+learning and building 30 apps using vanilla javascript
